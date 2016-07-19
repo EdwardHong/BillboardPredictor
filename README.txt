@@ -1,7 +1,7 @@
 //======================================================//
 //   Course:       Predictive Analytics                 //
 //   Code:         CSCI-GA.3033-​011, Fall 2015          //
-//   Professor:    Hubertus Franke                      //
+//   Professor:    Anasse Bari                      //
 //                                                      //
 //   Project:      Billboard Chart Prediction           //
 //                                                      //
